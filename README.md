@@ -1,0 +1,1 @@
+Por alguna razón en los archivos puede marcar errores, pero si abre o descarga el .zip estos errores desaparecen.  Esta tarea en general me causó muichos problemas en GIT incluso al subir los archivos.
